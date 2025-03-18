@@ -1,1 +1,0 @@
-{ "root": "dist/", "headers": { "/**": { "Cache-Control": "no-store" } } } 
